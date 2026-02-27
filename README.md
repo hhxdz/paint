@@ -1,7 +1,7 @@
 # paint
 A simple painting website using canvas
 
-![screen of main page](./images/main-page.png)
+![screen of main page](./images/main-page.jpg)
 
 ## Contributor
 This project was developed by:
